@@ -1,3 +1,9 @@
+<!-- PROJECT BANNER -->
+
+<p align="center">
+  <img src="https://via.placeholder.com/1200x250/1e1e1e/ffffff?text=AI+Resume+Analyzer+%7C+Smart+AI+Powered+Resume+Scanner" alt="Project Banner"/>
+</p>
+
 # 🧠 AI Resume Analyzer — Smart Resume Analysis Tool
 
 <p align="center">
@@ -15,6 +21,30 @@
 ---
 
 ## 📘 Table of Contents
+
+* [✨ Highlights](#-highlights)
+* [Overview](#-overview)
+* [Features](#-features)
+* [Tech Stack](#-tech-stack)
+* [Project Structure](#-project-structure)
+* [Installation](#️-installation)
+* [Run the Application](#️-run-the-application)
+* [Screenshots](#-screenshots)
+* [Future Improvements](#-future-improvements)
+* [Contributing](#-contributing)
+* [License](#-license)
+
+---
+
+## ✨ Highlights
+
+✔ Clean & professional UI
+✔ AI-powered skill extraction
+✔ ATS-style scoring mechanism
+✔ Organized project structure
+✔ Modern README with badges & visuals
+
+---
 
 * [Overview](#-overview)
 * [Features](#-features)
